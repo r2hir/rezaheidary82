@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rezaheidary82
 - 👀 I’m interested in Computer
 - 🌱 I’m currently learning Python
-- 📫 How to reach me rezaheidary@iran.ir
+- 📫 How to reach me rezadev82@gmail.com
 
 <!---
 rezaheidary82/rezaheidary82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
